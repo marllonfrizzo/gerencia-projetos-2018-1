@@ -1,0 +1,26 @@
+1. Preparação
+
+1.1 Entender o Problema
+Ir ao ambiente em que o sistema irá rodar e obter informações relevantes com o stackeholder.
+
+1.2 Levantamento de Requisitos
+Junto ao stakeholder, levantar informações sobre o funcionamento do negócio e assimilar ao desenvolvimento do sistema.
+
+1.3 Modelagem de Dados
+De posse das informações, modelar os dados e criar os diagramas. Para a documentação do sistema e para a arquitetura do sistema.
+
+1.4 Escolha da Tecnologia
+Analisar os requisitos e os diagramas e com base escolher qual é a tecnologia adequada para o projeto.
+
+2 Execução/Desenvolvimento
+
+2.1 Prototipagem
+Esboçar o design e layout da aplicação.
+
+2.2 Desenvolvimento
+Escrever o código do programa.
+
+2.3 Testes
+Expor o sistema a diversas situações e observar seu comportamento.
+
+2.4 Validação dos Requisitos
