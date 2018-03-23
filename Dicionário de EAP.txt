@@ -24,3 +24,23 @@ Escrever o código do programa.
 Expor o sistema a diversas situações e observar seu comportamento.
 
 2.4 Validação dos Requisitos
+Com o sistema em funcionamento, validar com os requisitos previamente definidos.
+
+3 Implantação
+
+3.1 Implantação
+Instalar o sistema no ambiente de produção.
+
+3.2 Testes
+Observar o comportamento do sistema, na intenção de encontrar falhas.
+
+3.3 Validação com o Cliente
+Verificar com o cliente se o sistema esta atendendo as suas necessidades.
+
+3.4 Gerar Relatórios de Satisfação
+Junto ao cliente, gerar relatórios quanto a sua satisfação com o sistema.
+
+4 Manutenção
+
+4.1 Manutenção
+Depois do sistema estar em ambiente de produção, dar o devido suporte para eventuais problemas que possam ocorrer. 
